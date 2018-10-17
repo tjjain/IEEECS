@@ -18,3 +18,10 @@ int main()
  
     return 0;
 }
+/* Output of this program:
+   Hello World
+   Hello World
+   Hello World
+   Hello World
+   Hello World
+*/
