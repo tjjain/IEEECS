@@ -4,5 +4,8 @@
  int main()
  {
     cout<<"Hello World!" << endl;
-    retuen 0;
+    return 0;
  }
+
+/* Output:
+   Hello World! */
